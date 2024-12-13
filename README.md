@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native applications involving the use of deprecated XMLHttpRequest for network requests.  The original code uses XMLHttpRequest, causing crashes. The solution provides a refactored version using the fetch API for improved reliability and maintainability.
